@@ -10,7 +10,7 @@ FilesToBinary is a Python script that converts files (DOCX and PDF) to binary fo
 
 ## Usage
 1. Ensure that MongoDB is running.
-2. Run the script: python filesToBinary.py
+2. Run the script: `python filesToBinary.py`
 
 
 ## File Types Supported
